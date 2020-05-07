@@ -1,5 +1,6 @@
 import numpy as np
 import sys
+
 from mnist import MNIST
 mndata = MNIST("/export/home/016/a0166267/le4nn/")
 
